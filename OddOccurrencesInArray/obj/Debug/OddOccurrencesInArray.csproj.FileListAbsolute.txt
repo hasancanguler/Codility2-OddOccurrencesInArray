@@ -1,0 +1,7 @@
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\OddOccurrencesInArray.exe.config
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\OddOccurrencesInArray.exe
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\bin\Debug\OddOccurrencesInArray.pdb
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.csprojAssemblyReference.cache
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.csproj.CoreCompileInputs.cache
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.exe
+C:\Project\OddOccurrencesInArray\OddOccurrencesInArray\obj\Debug\OddOccurrencesInArray.pdb
